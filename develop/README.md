@@ -1,11 +1,11 @@
 
   
 
-  # Brandts Project
+  # Brandt's Project
 
 
   ## Description 
-  Description Test
+  Description here
 
   
   ## Table of Contents
@@ -18,20 +18,20 @@
   None
 
   ## Usage
-  No usage information
+  None (Usage)
 
   ## License
   ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Contributing (Guidelines)
-  None
+  None 
 
   ## Tests (Instructions)
-  No testing instructions 
+  None 
 
   ## Questions
   brandtdavidson
 
   Reach out to me on Github!: [GitHub](https://github.com/brandtdavidson)
-  How to reach me for additional questions: brandtdavidson@email.com
+  How to reach me for additional questions: brandtdavidson@gmail.com
 
